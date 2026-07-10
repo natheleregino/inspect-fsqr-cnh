@@ -1,6 +1,6 @@
 {
-    "name": "inspect_flow",
-    "short_name": "inspect_flow",
+    "name": "inspect_FSQR_CNH",
+    "short_name": "inspect FSQR_CNH",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
